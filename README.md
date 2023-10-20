@@ -1,6 +1,6 @@
 # Sneed & Co Depository Trustless Company
 
-fork of enoki dex
+fork of enoki dex, credit to all devs who built this and we can only hope to improve it. 
 
 Sneed & Co is a fully asynchronous and scalable DEX built on the Internet Computer.
 
