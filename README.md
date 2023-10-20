@@ -1,6 +1,6 @@
-# Enoki Exchange
+# Sneed & Co Depository Trustless Company
 
-Enoki Exchange is a fully asynchronous and scalable DEX built on the Internet Computer.
+Sneed & Co is a fully asynchronous and scalable DEX built on the Internet Computer.
 
 It uses "broker" smart contract canisters to take orders from users. The exchange 
 routinely syncs with the brokers to execute limit orders and create a bid/ask curve that is used to
